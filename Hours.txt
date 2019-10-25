@@ -1,3 +1,0 @@
-vr :    research:                               2
-        making everything accasible in code:    1 
-sat:    adding house object:                    2
